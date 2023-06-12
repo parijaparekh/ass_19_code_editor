@@ -1,7 +1,7 @@
 {
   "name": "text-editor",
   "engines:": {
-    "node": "18.x"
+    "node": "16.17.1"
   },
   "scripts": {
     "dev": "webpack-dev-server",
